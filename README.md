@@ -143,9 +143,6 @@ The `.lrplugin` folder was probably moved or deleted after being added to Lightr
 
 Use the plug-in at your own risk and verify exported filenames before overwriting existing work. Keeping a backup of the original export is strongly recommended.
 
-## License
-
-Add your preferred license here before publishing, for example the MIT License.
 
 ---
 
